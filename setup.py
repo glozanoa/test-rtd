@@ -9,14 +9,14 @@ f.close()
 
 setup(
     name='lumache',
-    version=VERSION,
+    version='1.0',
     description='rtd-test',
     long_description=LONG_DESCRIPTION,
     keywords=['Documentation', ],
     author='glozanoa',
     author_email='glozanoa@uni.pe',
     url='https://github.com/glozanoa/test-rtd',
-    license=LICENSE,
+    license='GPL-3',
     classifiers = [
         "Programming Language :: Python :: 3.9",
     ],
