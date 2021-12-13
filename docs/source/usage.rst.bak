@@ -32,14 +32,3 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
-To sleep a number of seconds, use this function:
-
-.. autofunction:: lumache.sleeper
-
-Extra Information
------------------
-This session has usefull information
-
->>> import something
->>> for k in range(10000):
-        print(k)
