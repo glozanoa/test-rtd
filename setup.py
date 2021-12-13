@@ -20,6 +20,6 @@ setup(
     classifiers = [
         "Programming Language :: Python :: 3.9",
     ],
-    packages=find_packages(),
+    py_modules=['lumache'],
     include_package_data=True,
 )
