@@ -29,9 +29,7 @@ def sleeper(seconds: int):
     """
     Slepp by the supplied seconds
 
-    Arguments
-    =========
-    seconds: int
-        Seconds to sleep
+    :param seconds: Seconds to sleep
+    :type seconds: int
     """
     sleep(seconds)  
